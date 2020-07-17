@@ -1,6 +1,8 @@
 # 浩纶说文件存储仓
 博客https://qtchat.top/
 
+满速下载文件地址 https://cdn.jsdelivr.net/gh/dhlun/cc
+
 https://about.me/haolunshuo
 
 B站 https://space.bilibili.com/497388797
